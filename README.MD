@@ -23,10 +23,10 @@ Hi, I'm Benjamin Long!
 
 <pre>
 💻 I am a self taught Full Stack Developer
-📚 I am currently studying for a Bachelor's in Computer Engineering from the National University of SIngapore
+📚 I am currently studying for a Bachelor's in Computer Engineering from the National University of Singapore
 📝 I have a strong interest in Distributed Systems and Databases
 🌟 Main languages: Golang, Python, JavaScript
-🚩 Other Interests: Startups, DevOps (k8s, Docker, Istio, Kong etc.), ML, Blockchain, IOT 
+🚩 Other Interests: Startups, DevOps (k8s, Docker, Istio, Kong etc.), ML, Blockchain, IOT, Payments, Sustainability, Energy 
 </pre>
 <hr>
 
@@ -41,18 +41,19 @@ Hi, I'm Benjamin Long!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/bawfen"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/bawfen"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 	<a href="https://github.com/bawfen"><img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
 	<a href="https://github.com/bawfen"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
 	<a href="https://github.com/bawfen"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/bawfen"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/bawfen"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+	
 
 ### 🧰 Frameworks and Libraries
 
 <p>
     <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
-    <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&style=for-the-badge&logoColor=white"></a>
+    <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&style=for-the-badge&logoColor=white"></a>
     <a href="https://nuxtjs.org/"><img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"></a>
 </p>
 
@@ -60,10 +61,10 @@ Hi, I'm Benjamin Long!
 
 <p>
     <a href="https://github.com/bawfen"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://aws.amazon.com/"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    <a href="https://www.mysql.com/"><img alt="MySQL" src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="https://aws.amazon.com/"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white"></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src ="https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white"></a>
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white"></a>
 	<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
 
 </p>
@@ -97,7 +98,7 @@ Hi, I'm Benjamin Long!
 <br/>
 <p align="center">
 	<a href="https://github.com/bawfen">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bawfen&show_icons=true&count_private=true&bg_color=30,548ed0,fd8b71&title_color=fff&text_color=fff" alt="bawfen">
+	<img width="49.5%" src="https://github-readme-stats-bawfen.vercel.app/api?username=bawfen&show_icons=true&count_private=true&bg_color=30,548ed0,fd8b71&title_color=fff&text_color=fff" alt="bawfen">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bawfen" alt="bawfen">
 	</a>
 	<br/>
@@ -118,7 +119,7 @@ Hi, I'm Benjamin Long!
 
 <p align="center">
 	<a href="https://github.com/bawfen">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawfen&langs_count=8&layout=compact&count_private=true" alt="bawfen">
+	<img src="https://github-readme-stats-bawfen.vercel.app/api/top-langs/?username=bawfen&langs_count=8&layout=compact&count_private=true" alt="bawfen">
 	</a>
 	<br/>
 <br/>
